@@ -31,7 +31,7 @@
 		<profile>
 			<id>old</id>
 			<properties>
-				<spring.version>5.3.0</spring.version>
+				<spring.version>6.2.11</spring.version>
 			</properties>
 			<dependencies>
 				<dependency>
